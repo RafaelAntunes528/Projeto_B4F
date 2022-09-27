@@ -15,7 +15,6 @@ export default function UsersBoard(props){
             setcl("apro")
         }else setcl("repro")
     })
-  
     
 
     return(

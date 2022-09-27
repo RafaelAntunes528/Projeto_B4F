@@ -1,0 +1,31 @@
+label{
+    display: inline-block;
+    width: 90px;
+    text-align: left;
+}
+
+
+.InformacoesCandidato {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    height: 15vh;
+    width: 80vh;
+    
+}
+input{
+    width: 100%;
+    border-width: 1px;
+}
+.divSize {
+    display: flex;
+    flex-direction: row;
+    width: 100vh;
+    height: 25%;
+    margin: 1%;
+}
+
+
+
+

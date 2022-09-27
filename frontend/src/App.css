@@ -33,12 +33,13 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
 
-.P{
+.P {
   display: flex;
   justify-content: center;
 }
@@ -48,17 +49,18 @@
 }
 
 
-.A{
+.A {
   display: flex;
   align-items: center;
   flex-direction: column;
 }
 
-.input{
+.input {
   width: 892px;
   height: 30px;
 }
-.select{
+
+.select {
   width: 900px;
   height: 30px;
 }

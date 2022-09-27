@@ -1,6 +1,13 @@
 import './App.css';
+import Formulario from './components/formulario';
 import UsersBoard from './components/users';
+/* function App() {
+  return (
+    <div className="App">
+      <Formulario></Formulario>
+      </div>
 
+  } */
 function App() {
   return (
     <>
