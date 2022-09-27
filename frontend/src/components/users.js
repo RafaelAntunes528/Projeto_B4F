@@ -15,6 +15,7 @@ export default function UsersBoard(props){
             setcl("apro")
         }else setcl("repro")
     })
+  
     
 
     return(
@@ -29,7 +30,6 @@ export default function UsersBoard(props){
                 </div>
                 
             </div>
-
-        </div>
+            </div>
     )
 }

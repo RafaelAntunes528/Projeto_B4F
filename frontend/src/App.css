@@ -42,6 +42,11 @@
   display: flex;
   justify-content: center;
 }
+.container{
+  height: 600px;
+  overflow-y: auto
+}
+
 
 .A{
   display: flex;
