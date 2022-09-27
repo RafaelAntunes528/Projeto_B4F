@@ -37,7 +37,7 @@
     width: 100%;
     color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.3vh;
+    font-size: 1.5vh;
     text-align: center;
 }
 
@@ -72,9 +72,12 @@
 }
 
 .BotaoSairMenu {
-    position: absolute;
-    bottom: 100%;
+    display: flex;
+    position: fixed;
+    bottom: 30px;
     cursor: pointer;
+
+
 
 }
 
@@ -86,7 +89,7 @@
     color: white;
     font-family: 'Bebas Neue', cursive;
     font-size: 2vh;
-    text-align: left;
+    text-align: center;
     border: 0px;
     cursor: pointer;
 

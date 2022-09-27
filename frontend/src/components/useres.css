@@ -1,3 +1,41 @@
+<<<<<<< HEAD
 .Perfil {
     background-color: aqua;
 }
+=======
+.apro{
+    display: flex;
+    flex-direction: row;
+    background-color: #0affb1;
+    width: 420px;
+    text-align: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 3px;
+    margin: 10px;
+    justify-content: space-between;
+}
+.repro{
+    display: flex;
+    flex-direction: row;
+    background-color: #8447ff;
+    width: 420px;
+    text-align: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 3px;
+    margin: 10px;
+    justify-content: space-between;
+}
+img {
+    border-radius: 50%;
+    width: 165px;
+    height: 165px;
+    position: relative;
+    align-items: flex-end;
+}
+>>>>>>> b06e79cc11b5984b66a713636a03d6012e359742
